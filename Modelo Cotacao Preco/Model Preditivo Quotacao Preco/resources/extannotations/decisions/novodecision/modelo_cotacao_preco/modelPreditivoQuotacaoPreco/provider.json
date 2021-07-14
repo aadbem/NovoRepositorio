@@ -1,0 +1,9 @@
+{
+  "name" : "decisions/NovoDecision/Modelo ML Quotacao Preco1626288705624",
+  "type" : "WML",
+  "description" : "",
+  "mlUrl" : "https://us-south.ml.cloud.ibm.com/ml/v4/",
+  "authUrl" : "https://iam.bluemix.net/identity/token",
+  "instanceId" : "310560f9-0904-4b5f-bbd2-ee50a1c211b6",
+  "apiKey" : null
+}
